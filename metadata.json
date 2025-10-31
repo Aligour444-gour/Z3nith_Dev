@@ -1,0 +1,5 @@
+{
+  "name": "AI Developer Chatbot",
+  "description": "An AI-powered chatbot designed for developers, featuring multiple personas for specialized assistance in coding, debugging, and learning. It supports streaming responses, code highlighting, and chat history management.",
+  "requestFramePermissions": []
+}
